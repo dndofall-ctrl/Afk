@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Bot of Creeper farm",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ClyvexHunter.aternos.me",
+    "ip": "Globalsmps1.aternos.me",
     "port": 21015,
     "version": "1.20.1",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
